@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hPrMOTORS/static/css/main.860f73e7.css",
-    "main.js": "/hPrMOTORS/static/js/main.06518522.js",
+    "main.js": "/hPrMOTORS/static/js/main.d5df0f2f.js",
     "static/media/remixicon.svg?t=1590207869815": "/hPrMOTORS/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/citroen.jpeg": "/hPrMOTORS/static/media/citroen.8274b90e64ac7e52f0a0.jpeg",
     "static/media/skoda-kushaq.jpeg": "/hPrMOTORS/static/media/skoda-kushaq.4cb1d791651b2877bdc4.jpeg",
@@ -56,10 +56,10 @@
     "static/media/slick.woff": "/hPrMOTORS/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/hPrMOTORS/index.html",
     "main.860f73e7.css.map": "/hPrMOTORS/static/css/main.860f73e7.css.map",
-    "main.06518522.js.map": "/hPrMOTORS/static/js/main.06518522.js.map"
+    "main.d5df0f2f.js.map": "/hPrMOTORS/static/js/main.d5df0f2f.js.map"
   },
   "entrypoints": [
     "static/css/main.860f73e7.css",
-    "static/js/main.06518522.js"
+    "static/js/main.d5df0f2f.js"
   ]
 }
