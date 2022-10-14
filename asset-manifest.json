@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hPrMOTORS/static/css/main.a09c0740.css",
-    "main.js": "/hPrMOTORS/static/js/main.e05c32b9.js",
+    "main.js": "/hPrMOTORS/static/js/main.0ba41c82.js",
     "static/media/remixicon.svg?t=1590207869815": "/hPrMOTORS/static/media/remixicon.9cedd2150922ead84869.svg",
     "static/media/citroen.jpeg": "/hPrMOTORS/static/media/citroen.8274b90e64ac7e52f0a0.jpeg",
     "static/media/skoda-kushaq.jpeg": "/hPrMOTORS/static/media/skoda-kushaq.4cb1d791651b2877bdc4.jpeg",
@@ -56,10 +56,10 @@
     "static/media/slick.woff": "/hPrMOTORS/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/hPrMOTORS/index.html",
     "main.a09c0740.css.map": "/hPrMOTORS/static/css/main.a09c0740.css.map",
-    "main.e05c32b9.js.map": "/hPrMOTORS/static/js/main.e05c32b9.js.map"
+    "main.0ba41c82.js.map": "/hPrMOTORS/static/js/main.0ba41c82.js.map"
   },
   "entrypoints": [
     "static/css/main.a09c0740.css",
-    "static/js/main.e05c32b9.js"
+    "static/js/main.0ba41c82.js"
   ]
 }
